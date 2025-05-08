@@ -87,10 +87,3 @@ Pas de souci ! Elles sont installées automatiquement via `setup.py` :
 Respectez les droits d'auteur et les conditions d'utilisation de YouTube. 🛑
 
 ---
-
-## 💡 Auteur
-
-Créé avec ❤️ par **\Moa**. ✨
-N'hésitez pas à contribuer ou à ouvrir une issue si vous avez des idées ou des problèmes. 🙌
-
-```
